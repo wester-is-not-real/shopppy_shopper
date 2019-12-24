@@ -1,0 +1,9 @@
+21122019__31122019
+Econo:
+	Huevos   1,23.    2,23.
+Selectos:
+MrSpecial:
+Pueblo:
+	Leche   2,56.    4,43.
+
+File created(22/12/2019)

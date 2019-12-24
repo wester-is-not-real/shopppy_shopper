@@ -1,0 +1,9 @@
+01122019__12122019
+Econo:
+	Huevo   2,23.    1,23.
+Selectos:
+MrSpecial:
+Pueblo:
+	Cebolla   2,23.    1,23.
+
+File created(22/12/2019)

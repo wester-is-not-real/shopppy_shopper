@@ -1,0 +1,10 @@
+01012020__08012020
+Econo:
+	Huevos   2,23.    1,23.
+	Cebolla   4,45.    2,34.
+Selectos:
+MrSpecial:
+Pueblo:
+	Leche   3,34.    2,12.
+
+File created(22/12/2019)
